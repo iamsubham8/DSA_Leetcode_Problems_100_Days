@@ -2,4 +2,3 @@
 
 Day - 01 : https://leetcode.com/problems/palindrome-number/
 
-Day - 02 :
