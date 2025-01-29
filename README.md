@@ -12,3 +12,8 @@ Day - 03 : (509. Fibonacci Number) https://leetcode.com/problems/fibonacci-numbe
 
 Day - 04 : (1137. N-th Tribonacci Number) https://leetcode.com/problems/n-th-tribonacci-number/
 
+
+Day - 05 : (1518. Water Bottles) https://leetcode.com/problems/water-bottles/description/
+
+
+Day - 06 : (1. Two Sum) https://leetcode.com/problems/two-sum/description/
