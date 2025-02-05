@@ -29,3 +29,6 @@ Day - 09 : ( 4. Median of Two Sorted Arrays)  // https://leetcode.com/problems/m
 
 
 Day - 10 : ( 4. Median of Two Sorted Arrays)  https://leetcode.com/problems/missing-number/
+
+
+Day - 11 : (27 Remove Element)  https://leetcode.com/problems/remove-element/description/
