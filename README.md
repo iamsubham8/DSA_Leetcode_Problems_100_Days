@@ -32,3 +32,6 @@ Day - 10 : ( 4. Median of Two Sorted Arrays)  https://leetcode.com/problems/miss
 
 
 Day - 11 : (27 Remove Element)  https://leetcode.com/problems/remove-element/description/
+
+
+Day - 12 : (977. Squares of a Sorted Array) https://leetcode.com/problems/squares-of-a-sorted-array/
