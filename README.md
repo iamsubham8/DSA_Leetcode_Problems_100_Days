@@ -35,3 +35,6 @@ Day - 11 : (27 Remove Element)  https://leetcode.com/problems/remove-element/des
 
 
 Day - 12 : (977. Squares of a Sorted Array) https://leetcode.com/problems/squares-of-a-sorted-array/
+
+
+Day - 13 : (167. Two Sum II - Input Array Is Sorted) https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
