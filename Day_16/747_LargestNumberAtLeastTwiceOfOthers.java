@@ -18,6 +18,7 @@ class Solution {
             }else if ( smax < nums[i]){
                 smax = nums[i];
             }
+            
         }
 
         if(smax*2<=max){
