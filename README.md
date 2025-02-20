@@ -53,3 +53,6 @@ Day - 17 : (11. Container With Most Water) https://leetcode.com/problems/contain
 
 
 Day - 18 : (334. Increasing Triplet Subsequence) https://leetcode.com/problems/increasing-triplet-subsequence/
+
+
+Day - 19 : (1800. Maximum Ascending Subarray Sum) https://leetcode.com/problems/maximum-ascending-subarray-sum/
