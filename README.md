@@ -56,3 +56,6 @@ Day - 18 : (334. Increasing Triplet Subsequence) https://leetcode.com/problems/i
 
 
 Day - 19 : (1800. Maximum Ascending Subarray Sum) https://leetcode.com/problems/maximum-ascending-subarray-sum/
+
+
+Day - 20 : (1394. Find Lucky Integer in an Array) https://leetcode.com/problems/find-lucky-integer-in-an-array/
