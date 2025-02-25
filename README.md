@@ -59,3 +59,6 @@ Day - 19 : (1800. Maximum Ascending Subarray Sum) https://leetcode.com/problems/
 
 
 Day - 20 : (1394. Find Lucky Integer in an Array) https://leetcode.com/problems/find-lucky-integer-in-an-array/
+
+
+Day - 21 : (704. Binary Search) https://leetcode.com/problems/binary-search/
