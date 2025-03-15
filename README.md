@@ -65,3 +65,6 @@ Day - 21 : (704. Binary Search) https://leetcode.com/problems/binary-search/
 
 
 Day - 22 : (34_Find_First_and_Last_PositionOfElementInSortedArray) https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+
+Day - 23 : (33. Search in Rotated Sorted Array) https://leetcode.com/problems/search-in-rotated-sorted-array/
