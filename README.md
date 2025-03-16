@@ -68,3 +68,6 @@ Day - 22 : (34_Find_First_and_Last_PositionOfElementInSortedArray) https://leetc
 
 
 Day - 23 : (33. Search in Rotated Sorted Array) https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+
+Day - 24 : (153. Find Minimum in Rotated Sorted Array) https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
