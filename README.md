@@ -71,3 +71,6 @@ Day - 23 : (33. Search in Rotated Sorted Array) https://leetcode.com/problems/se
 
 
 Day - 24 : (153. Find Minimum in Rotated Sorted Array) https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+
+
+Day - 25 : (162. Find Peak Element) https://leetcode.com/problems/find-peak-element/
