@@ -74,3 +74,6 @@ Day - 24 : (153. Find Minimum in Rotated Sorted Array) https://leetcode.com/prob
 
 
 Day - 25 : (162. Find Peak Element) https://leetcode.com/problems/find-peak-element/
+
+
+Day - 26 : (35. Search Insert Position) https://leetcode.com/problems/search-insert-position/
