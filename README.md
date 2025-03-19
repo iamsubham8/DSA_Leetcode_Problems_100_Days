@@ -77,3 +77,7 @@ Day - 25 : (162. Find Peak Element) https://leetcode.com/problems/find-peak-elem
 
 
 Day - 26 : (35. Search Insert Position) https://leetcode.com/problems/search-insert-position/
+
+
+Day - 27 : (540. Single Element in a Sorted Array
+) https://leetcode.com/problems/single-element-in-a-sorted-array/
