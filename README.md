@@ -99,3 +99,9 @@ Day - 32 : (179. Largest Number) https://leetcode.com/problems/largest-number/
 
 
 Day - 33 : (2529. Maximum Count of Positive Integer and Negative Integer) https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
+
+
+Day - 34 : (2529. Maximum Count of Positive Integer and Negative Integer) https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
+
+
+Day - 34 : (66. Plus One) https://leetcode.com/problems/plus-one/
