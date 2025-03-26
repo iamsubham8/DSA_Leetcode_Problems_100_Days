@@ -105,3 +105,6 @@ Day - 34 : (66. Plus One) https://leetcode.com/problems/plus-one/
 
 
 Day - 35 : (215. Kth Largest Element in an Array)  https://leetcode.com/problems/kth-largest-element-in-an-array/
+
+
+Day - 36: (1491. Average Salary Excluding the Minimum and Maximum Salary) https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
