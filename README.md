@@ -114,3 +114,6 @@ Day - 37: (155. Min Stack) https://leetcode.com/problems/min-stack/
 
 
 Day - 38: (255. Implement Stack Using Queues)  https://leetcode.com/problems/implement-stack-using-queues/
+
+
+Day - 39: (232. Implement Stack Using Stacks)  https://leetcode.com/problems/implement-queue-using-stacks/
