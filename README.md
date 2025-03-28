@@ -120,3 +120,6 @@ Day - 39: (232. Implement Stack Using Stacks)  https://leetcode.com/problems/imp
 
 
 Day - 40: (128. Longest Consecutive Sequence) https://leetcode.com/problems/longest-consecutive-sequence/
+
+
+Day - 41: (287. Find the Duplicate Number) https://leetcode.com/problems/find-the-duplicate-number/
