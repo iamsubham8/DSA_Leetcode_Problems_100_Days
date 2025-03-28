@@ -117,3 +117,6 @@ Day - 38: (255. Implement Stack Using Queues)  https://leetcode.com/problems/imp
 
 
 Day - 39: (232. Implement Stack Using Stacks)  https://leetcode.com/problems/implement-queue-using-stacks/
+
+
+Day - 40: (128. Longest Consecutive Sequence) https://leetcode.com/problems/longest-consecutive-sequence/
