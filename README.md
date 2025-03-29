@@ -123,3 +123,6 @@ Day - 40: (128. Longest Consecutive Sequence) https://leetcode.com/problems/long
 
 
 Day - 41: (287. Find the Duplicate Number) https://leetcode.com/problems/find-the-duplicate-number/
+
+
+Day - 42: (1046. Last Stone Weight) https://leetcode.com/problems/last-stone-weight/
