@@ -7,6 +7,7 @@
 // Return the weight of the last remaining stone. If there are no stones left, return 0.
 // https://leetcode.com/problems/last-stone-weight/
 
+
 class Solution {
     public int lastStoneWeight(int[] stones) {
     //max priority queue
