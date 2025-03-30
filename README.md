@@ -126,3 +126,6 @@ Day - 41: (287. Find the Duplicate Number) https://leetcode.com/problems/find-th
 
 
 Day - 42: (1046. Last Stone Weight) https://leetcode.com/problems/last-stone-weight/
+
+
+Day - 43: (724. Find Pivot Indext) https://leetcode.com/problems/find-pivot-index/
