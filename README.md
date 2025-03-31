@@ -129,3 +129,6 @@ Day - 42: (1046. Last Stone Weight) https://leetcode.com/problems/last-stone-wei
 
 
 Day - 43: (724. Find Pivot Indext) https://leetcode.com/problems/find-pivot-index/
+
+
+Day - 44: (881. Boats to Save People) https://leetcode.com/problems/boats-to-save-people/
