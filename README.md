@@ -132,3 +132,6 @@ Day - 43: (724. Find Pivot Indext) https://leetcode.com/problems/find-pivot-inde
 
 
 Day - 44: (881. Boats to Save People) https://leetcode.com/problems/boats-to-save-people/
+
+
+Day - 45: (58. Lenght of Last Word) https://leetcode.com/problems/length-of-last-word/
