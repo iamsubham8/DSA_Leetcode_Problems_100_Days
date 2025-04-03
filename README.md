@@ -143,4 +143,7 @@ Day - 46: (316. Remove Duplicate Letters) https://leetcode.com/problems/remove-d
 Day - 47: (151. Reverse Words in a String) https://leetcode.com/problems/reverse-words-in-a-string/
 
 
-Day - 48: (String Compression) https://leetcode.com/problems/string-compression/
+Day - 48: (443. String Compression) https://leetcode.com/problems/string-compression/
+
+
+Day - 49: (394. Decode String) https://leetcode.com/problems/decode-string/
