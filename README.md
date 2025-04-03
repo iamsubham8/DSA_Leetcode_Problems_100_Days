@@ -147,3 +147,6 @@ Day - 48: (443. String Compression) https://leetcode.com/problems/string-compres
 
 
 Day - 49: (394. Decode String) https://leetcode.com/problems/decode-string/
+
+
+Day - 50: (1897. Redistribute Characters to Make All Strings Equal) https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
