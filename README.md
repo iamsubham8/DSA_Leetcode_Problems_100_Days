@@ -150,3 +150,6 @@ Day - 49: (394. Decode String) https://leetcode.com/problems/decode-string/
 
 
 Day - 50: (1897. Redistribute Characters to Make All Strings Equal) https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
+
+
+Day - 51: (1446. Consecutive Characters) https://leetcode.com/problems/consecutive-characters/
