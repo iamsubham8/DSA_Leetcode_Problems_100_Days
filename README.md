@@ -156,3 +156,6 @@ Day - 51: (1446. Consecutive Characters) https://leetcode.com/problems/consecuti
 
 
 Day - 52: (Valid Palindrome) https://leetcode.com/problems/valid-palindrome/
+
+
+Day - 53: (Valid Parentheses) https://leetcode.com/problems/valid-parentheses/
