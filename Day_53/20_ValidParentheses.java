@@ -6,7 +6,7 @@
 // 3.	Every close bracket has a corresponding open bracket of the same type.
 
 // https://leetcode.com/problems/valid-parentheses/
-
+ 
 class Solution {
     public boolean isValid(String s) {
         Stack<Character> st = new Stack<>();
