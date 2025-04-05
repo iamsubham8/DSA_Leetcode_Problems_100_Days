@@ -162,3 +162,6 @@ Day - 53: (Valid Parentheses) https://leetcode.com/problems/valid-parentheses/
 
 
 Day - 54: (921. Minimum Add to Make Parentheses Valid) https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+
+
+Day - 55: (242. Valid Anagram) https://leetcode.com/problems/valid-anagram/
