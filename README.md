@@ -165,3 +165,6 @@ Day - 54: (921. Minimum Add to Make Parentheses Valid) https://leetcode.com/prob
 
 
 Day - 55: (242. Valid Anagram) https://leetcode.com/problems/valid-anagram/
+
+
+Day - 56: (1572. Matrix Diagonal Sum) https://leetcode.com/problems/matrix-diagonal-sum/
