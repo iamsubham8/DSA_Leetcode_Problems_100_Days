@@ -171,3 +171,6 @@ Day - 56: (1572. Matrix Diagonal Sum) https://leetcode.com/problems/matrix-diago
 
 
 Day - 57: (867. Transpose Matrix) https://leetcode.com/problems/transpose-matrix/ 
+
+
+Day - 58: (59. Spiral Matrix II) https://leetcode.com/problems/spiral-matrix-ii/
