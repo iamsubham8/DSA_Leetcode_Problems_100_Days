@@ -186,3 +186,6 @@ Day - 61: (234. Palindrome Linked List) https://leetcode.com/problems/palindrome
 
 
 Day - 62: (21. Merge Two Sorted Lists) https://leetcode.com/problems/merge-two-sorted-lists/
+
+
+Day - 63: (83. Remove Duplicates from Sorted List) https://leetcode.com/problems/remove-duplicates-from-sorted-list/
