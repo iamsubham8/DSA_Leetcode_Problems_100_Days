@@ -183,3 +183,6 @@ Day - 60: (48. Rotate Image) https://leetcode.com/problems/rotate-image/
 
 
 Day - 61: (234. Palindrome Linked List) https://leetcode.com/problems/palindrome-linked-list/
+
+
+Day - 62: (21. Merge Two Sorted Lists) https://leetcode.com/problems/merge-two-sorted-lists/
