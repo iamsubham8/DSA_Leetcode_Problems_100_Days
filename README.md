@@ -180,3 +180,6 @@ Day - 59: (74. Search a 2D Matrix) // https://leetcode.com/problems/search-a-2d-
 
 
 Day - 60: (48. Rotate Image) https://leetcode.com/problems/rotate-image/
+
+
+Day - 61: (234. Palindrome Linked List) https://leetcode.com/problems/palindrome-linked-list/
