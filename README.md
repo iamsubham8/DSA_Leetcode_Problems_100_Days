@@ -176,4 +176,7 @@ Day - 57: (867. Transpose Matrix) https://leetcode.com/problems/transpose-matrix
 Day - 58: (59. Spiral Matrix II) https://leetcode.com/problems/spiral-matrix-ii/
 
 
-Day - 59: (74. Search a 2D Matrix) // https://leetcode.com/problems/search-a-2d-matrix/https://leetcode.com/problems/search-a-2d-matrix/
+Day - 59: (74. Search a 2D Matrix) // https://leetcode.com/problems/search-a-2d-matrix/
+
+
+Day - 60: (48. Rotate Image) https://leetcode.com/problems/rotate-image/
