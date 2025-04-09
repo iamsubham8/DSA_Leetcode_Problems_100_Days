@@ -198,3 +198,6 @@ Day - 65: (2816. Double a Number Represented as a Linked List) https://leetcode.
 
 
 Day - 66: (328. Odd Even Linked List) https://leetcode.com/problems/odd-even-linked-list/
+
+
+Day - 67: (160. Intersection of Two Linked Lists) https://leetcode.com/problems/intersection-of-two-linked-lists/
