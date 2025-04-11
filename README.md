@@ -213,3 +213,6 @@ Day - 70: (141. Linked List Cycle) https://leetcode.com/problems/linked-list-cyc
 
 
 Day - 71: (142. Linked List Cycle II) https://leetcode.com/problems/linked-list-cycle-ii/
+
+
+Day - 72: (203. Remove Linked List Elements) https://leetcode.com/problems/remove-linked-list-elements/
