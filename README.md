@@ -218,4 +218,4 @@ Day - 71: (142. Linked List Cycle II) https://leetcode.com/problems/linked-list-
 Day - 72: (203. Remove Linked List Elements) https://leetcode.com/problems/remove-linked-list-elements/
 
 
-Day - 73: (1019. Next Greater Node In Linked List) https://leetcode.com/problems/next-greater-node-in-linked-list/
+Day - 73: (1019.Next Greater Node In Linked List) https://leetcode.com/problems/next-greater-node-in-linked-list/

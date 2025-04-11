@@ -15,6 +15,7 @@
  */
 
 //  https://leetcode.com/problems/next-greater-node-in-linked-list/
+
 class Solution {
     public int sizeLL(ListNode head){
         ListNode curr = head ;
