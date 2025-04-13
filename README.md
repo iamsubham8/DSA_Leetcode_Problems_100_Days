@@ -219,3 +219,6 @@ Day - 72: (203. Remove Linked List Elements) https://leetcode.com/problems/remov
 
 
 Day - 73: (1019.Next Greater Node In Linked List) https://leetcode.com/problems/next-greater-node-in-linked-list/
+
+
+Day - 74: (2095. Delete the Middle Node of a Linked List) https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
