@@ -222,3 +222,6 @@ Day - 73: (1019.Next Greater Node In Linked List) https://leetcode.com/problems/
 
 
 Day - 74: (2095. Delete the Middle Node of a Linked List) https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+
+
+Day - 75: (2181. Merge Nodes in Between Zeros) https://leetcode.com/problems/merge-nodes-in-between-zeros/
