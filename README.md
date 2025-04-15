@@ -225,3 +225,6 @@ Day - 74: (2095. Delete the Middle Node of a Linked List) https://leetcode.com/p
 
 
 Day - 75: (2181. Merge Nodes in Between Zeros) https://leetcode.com/problems/merge-nodes-in-between-zeros/
+
+
+Day - 76: (23. Merge k Sorted Lists) https://leetcode.com/problems/merge-k-sorted-lists/
