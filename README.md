@@ -243,3 +243,6 @@ Day - 80: (145. Binary Tree Postorder Traversal) https://leetcode.com/problems/b
 
 
 Day - 81: (102. Binary Tree Level Order Traversal) https://leetcode.com/problems/binary-tree-level-order-traversal/
+
+
+Day - 82: (257. Binary Tree Paths) https://leetcode.com/problems/binary-tree-paths/
