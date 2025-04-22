@@ -249,3 +249,6 @@ Day - 82: (257. Binary Tree Paths) https://leetcode.com/problems/binary-tree-pat
 
 
 Day - 83: (103. Binary Tree Zigzag Level Order Traversal) https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+
+
+Day - 84: (110. Balanced Binary Tree) https://leetcode.com/problems/balanced-binary-tree/
