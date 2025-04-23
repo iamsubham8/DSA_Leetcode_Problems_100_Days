@@ -252,3 +252,6 @@ Day - 83: (103. Binary Tree Zigzag Level Order Traversal) https://leetcode.com/p
 
 
 Day - 84: (110. Balanced Binary Tree) https://leetcode.com/problems/balanced-binary-tree/
+
+
+Day - 85: (230. Kth Smallest Element in a BST) https://leetcode.com/problems/kth-smallest-element-in-a-bst/
