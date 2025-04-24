@@ -255,3 +255,6 @@ Day - 84: (110. Balanced Binary Tree) https://leetcode.com/problems/balanced-bin
 
 
 Day - 85: (230. Kth Smallest Element in a BST) https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+
+
+Day - 86: (112. Path Sum) https://leetcode.com/problems/path-sum/
