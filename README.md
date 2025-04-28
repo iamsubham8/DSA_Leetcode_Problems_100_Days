@@ -264,3 +264,6 @@ Day - 87: ( 199. Binary Tree Right Side View) https://leetcode.com/problems/bina
 
 
 Day - 88: (226. Invert Binary Tree) https://leetcode.com/problems/invert-binary-tree/
+
+
+Day - 89: (543. Diameter of Binary Tree) https://leetcode.com/problems/diameter-of-binary-tree/
