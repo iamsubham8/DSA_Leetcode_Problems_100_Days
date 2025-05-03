@@ -276,7 +276,10 @@ Day - 90: (108. Convert Sorted Array to Binary Search Tree
 Day - 91: (617. Merge Two Binary Trees) https://leetcode.com/problems/merge-two-binary-trees/
 
 
-Day - 91: (700. Search in a Binary Search Tree) https://leetcode.com/problems/search-in-a-binary-search-tree/
+Day - 92: (700. Search in a Binary Search Tree) https://leetcode.com/problems/search-in-a-binary-search-tree/
 
 
-Day - 91: (701. Insert into a Binary Search Tree) https://leetcode.com/problems/insert-into-a-binary-search-tree/
+Day - 93: (701. Insert into a Binary Search Tree) https://leetcode.com/problems/insert-into-a-binary-search-tree/
+
+
+Day - 94: (235. Lowest Common Ancestor of a Binary Search Tree) https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
