@@ -283,3 +283,6 @@ Day - 93: (701. Insert into a Binary Search Tree) https://leetcode.com/problems/
 
 
 Day - 94: (235. Lowest Common Ancestor of a Binary Search Tree) https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+
+
+Day - 94: (98. Validate Binary Search Tree) https://leetcode.com/problems/validate-binary-search-tree/
