@@ -289,3 +289,6 @@ Day - 95: (98. Validate Binary Search Tree) https://leetcode.com/problems/valida
 
 
 Day - 96: ( 109. Convert Sorted List to Binary Search Tree) https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+
+
+Day - 96: (1382. Balance a Binary Search Tree) https://leetcode.com/problems/balance-a-binary-search-tree/
