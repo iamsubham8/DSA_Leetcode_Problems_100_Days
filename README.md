@@ -295,3 +295,6 @@ Day - 97: (1382. Balance a Binary Search Tree) https://leetcode.com/problems/bal
 
 
 Day - 98: (1302. Deepest Leaves Sum) https://leetcode.com/problems/deepest-leaves-sum/
+
+
+Day - 99: (1038. Binary Search Tree to Greater Sum Tree) https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
