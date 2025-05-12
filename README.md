@@ -298,3 +298,6 @@ Day - 98: (1302. Deepest Leaves Sum) https://leetcode.com/problems/deepest-leave
 
 
 Day - 99: (1038. Binary Search Tree to Greater Sum Tree) https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
+
+
+Day - 100: (121. Best Time to Buy and Sell Stock) https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
